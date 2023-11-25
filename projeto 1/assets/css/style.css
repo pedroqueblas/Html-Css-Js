@@ -1,0 +1,33 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: 0;
+font-family: Arial ;
+}
+body{
+margin: 0 auto;
+background-image: url(./img/fundo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h3.login{
+    font: normal 28px Arial;
+    color: white;
+}
+
+.contaniner{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 190px;
+    width: 300px;
+    margin-left: 520px;
+
+}
+h1{
+    color: white;
+}
+div{
+    color: white;
+}
